@@ -1,3 +1,3 @@
 # dio-trilha-java-basico
 
-Projeto simples de java básico feito no bootcamp da Dio.
+Projetos simples de java básico feito no bootcamp da Dio.
